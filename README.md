@@ -1,18 +1,17 @@
-# VPN IP Nigeria — Dr VPN
+# VPN IP Nigeria — Fast, Secure VPN for Nigeria
 
-**VPN IP Nigeria** is a fast, secure and free VPN for Android. Get a **Nigeria IP address**, unblock websites and apps, and protect your privacy on public Wi-Fi.
+**VPN IP Nigeria** is a free, open-source, ad-free VPN app for Android, built for users in Nigeria. It unblocks websites and apps, protects your privacy on public Wi-Fi, and gives you a fast, stable connection.
 
 ## Download
-- 📥 [Download VPN IP Nigeria (APK)](https://github.com/DrvpnTM/app/releases/download/countries-v0.1.4/DrVPN_ng_0.1.4_universal.apk)
-- 🌐 Website: [drvpn.net](https://drvpn.net)
-- 📢 Telegram: [@drVPN_net](https://t.me/drVPN_net)
+➡️ [Download the latest APK](https://github.com/DrvpnTM/vpn-ip-nigeria/releases/latest)
 
 ## Features
-- One-tap connect, automatic fastest-server selection
-- Nigeria IP address and servers in many other countries
-- VLESS, VMess, Trojan, Shadowsocks, Hysteria2, WireGuard
-- Works under heavy internet restrictions
-- Free and open source
+- One-tap connect, automatic server speed test
+- VLESS, VMess, Reality, Trojan, Shadowsocks, Hysteria2, WireGuard
+- Per-app proxy, routing rules, dark mode
+- Automatic updates
 
-## Keywords
-VPN Nigeria, Nigeria VPN, VPN IP Nigeria, Nigeria IP address, free VPN Nigeria, buy VPN Nigeria, fast VPN Nigeria, Dr VPN
+## Get a subscription
+🌐 [drvpn.net](https://drvpn.net/) · 📢 [Telegram @drVPN_net](https://t.me/drVPN_net)
+
+<sub>Keywords: VPN Nigeria, free VPN Nigeria, fast VPN, VPN IP Nigeria, Android VPN, unblock websites Nigeria.</sub>
